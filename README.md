@@ -28,9 +28,9 @@ imdb_master.csv：
 #### Download it and put it directly into the data folder.
 
 ## 4.For main code folder:
-The code file of BILSTM model is located at A/BILSTM.ipynb 
-The code file of GRU model is located at A/GRU.ipynb 
-The code file of LSTM model is located at A/LSTM.ipynb 
+The code file of BILSTM model is located at A/BILSTM.ipynb   
+The code file of GRU model is located at A/GRU.ipynb   
+The code file of LSTM model is located at A/LSTM.ipynb   
 
 ## 5.For contract code folder:
 The code file of random forest model is located at contract code/randomforest.ipynb 
