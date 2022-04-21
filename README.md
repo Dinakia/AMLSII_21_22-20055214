@@ -21,10 +21,10 @@ seaborn                 0.11.2
 
 ## 3.dataset:
 Use these three files in the data folder：
-labeledTrainData.tsv
-testData.tsv
-imdb_master.csv：  
-The external data set imdb_master file is over 100M, which is inconvenient to upload. Here is a link, which can be downloaded directly to imdb_master.csv The size is 135.47 MB. https://www.kaggle.com/datasets/utathya/imdb-review-dataset  
+labeledTrainData.tsv  
+testData.tsv  
+imdb_master.csv：    
+### The external data set imdb_master file is over 100M, which is inconvenient to upload. Here is a link, which can be downloaded directly to imdb_master.csv The size is 135.47 MB. https://www.kaggle.com/datasets/utathya/imdb-review-dataset  
 Download it and put it directly into the data folder.
 
 ## 4.For main code folder:
